@@ -1,8 +1,8 @@
 <?php
-$server   = 'localhost';
-$username = 'dnrahmath';
-$password = 'herlambang66';
-$database = 'rentalmotor';
+$server   = 'sql6.freesqldatabase.com';
+$username = 'sql6501913';
+$password = 'jg1AhMT2NU';
+$database = 'sql6501913';
 
 $conn = mysqli_connect($server, $username, $password, $database);
 if (!$conn) {
