@@ -1,0 +1,60 @@
+/* outline: 1px solid gray; */     /* garis */  
+/* background-color: blue; */     /* warna biru */  
+
+
+/*-----------------------------------------------------------------------*/
+
+
+.classA {
+	padding: 12px 20px;
+	display: inline-block;
+	box-sizing: border-box;
+}
+
+.elemCenter {
+	text-align: center;
+}
+
+
+/*-----2 file css-----------------------------------------------------------*/
+
+/*--------------------------------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------------------------*/
+
+.classInput {
+	width: 95%;
+	padding: 12px 20px;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+}
+
+.classTA {
+	width: 95%;
+	padding: 12px 20px;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+}
+
+
+/*-----------------------------------------------------------------------*/
+
+/*-----------------------------------------------------------------------*/
+
+/*
+.elemCenter {
+	text-align: center;
+}
+*/
+
+.btnSize {
+	/*background-color: #ffc39e;*/
+	width: 95%;
+	padding: 12px 30px;
+    margin-bottom: 20px;
+}
+
+/*-----------------------------------------------------------------------*/
