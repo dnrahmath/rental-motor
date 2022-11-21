@@ -1,5 +1,5 @@
 <?php
-$server   = 'api.satutitikempat.xyz';
+$server   = 'http://193.111.124.139:3306/';
 $username = 'root';
 $password = '';
 $database = 'rentalmotor';
