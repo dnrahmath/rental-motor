@@ -1,5 +1,5 @@
 <?php
-$server   = 'api.satutitikempat.xyz';
+$server   = '193.111.124.139';
 $port     = '3306';
 $username = 'root';
 $password = '';
