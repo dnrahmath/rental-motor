@@ -16,9 +16,9 @@ if (!$conn) {
 //GRANT ALL PRIVILEGES ON * . * TO 'rahmat'@'localhost';
 //FLUSH PRIVILEGES;
 
-// xampp -> mysql -> my.ini
+// XAMPP Control Panel v3.3.0 -> mysql -> Actions -> Config -> my.ini
 //[mysqld]
-//skip-grant-tables
+//skip-grant-tables  //tambahkan ini
 //port=3306
 
 
