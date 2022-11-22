@@ -1,8 +1,8 @@
 <?php
-$server   = '193.111.124.139';
+$server   = 'api.satutitikempat.xyz';
 $port     = '3306';
-$username = 'root';
-$password = '';
+$username = 'rahmat';
+$password = 'mypassword';
 $database = 'rentalmotor';
 
 $conn = mysqli_connect($server, $username, $password, $database, $port);
