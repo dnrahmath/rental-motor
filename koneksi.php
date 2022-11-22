@@ -1,5 +1,5 @@
 <?php
-$server   = 'api.satutitikempat.xyz';
+$server   = 'api.satutitikempat.xyz'; //localhost
 $port     = '3306';
 $username = 'rahmat';
 $password = 'mypassword';
