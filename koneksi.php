@@ -11,7 +11,7 @@ if (!$conn) {
 }
 
 
-
+//C:\xampp\mysql\bin -> open Command Prompt -> mysql -u root -p
 //CREATE USER 'rahmat'@'localhost' IDENTIFIED BY 'mypassword';
 //GRANT ALL PRIVILEGES ON * . * TO 'rahmat'@'localhost';
 //FLUSH PRIVILEGES;
